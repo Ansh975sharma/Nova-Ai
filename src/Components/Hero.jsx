@@ -3,12 +3,17 @@ import dashboard from "../assets/dashboard.png"
 function  Hero() {
   return (
    <>
-   <div className="flex gap-20 justify-between my-4">
-    <div className='w-100'>
+   <div className="flex flex-col md:flex-row gap-10 justify-between my-4">
+    <div >
         <button className="bg-gray-200 rounded-xl px-3 text-violet-500 ">Ai-Powered Productivity</button>
         <div className="my-5">
-        <h1 className="text-5xl font-bold">Build Better.</h1>
-        <h1 className="text-5xl font-bold">Work Smarter.</h1>
+        <h1 className="text-5xl font-bold">
+            Build Better.
+            <br />
+            Work Smarter.
+
+        </h1>
+   
 
         <p className="text-md my-5">NOVA helps teams manage projects,automate tasks and work together more efficently.</p>
         <div className="flex gap-5 my-6">
@@ -18,7 +23,7 @@ function  Hero() {
     </div>
     </div>
     <div>
-<img  className="h-120 w-200" src={dashboard} alt="Dashboard-picture" />
+<img  className="w-full max-w-2xl" src={dashboard} alt="Dashboard-picture" />
     </div>
    </div>
    </>
