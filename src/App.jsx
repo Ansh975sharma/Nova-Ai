@@ -8,6 +8,10 @@ import HowItWorks from "./Components/HowItWorks"
 import Stats from "./Components/Stats"
 import Solutions from "./Components/Solutions"
 import Testimonials from "./Components/Testimonials"
+import Pricing from "./Components/Pricing"
+import FAQ from "./Components/FAQ"
+import CTA from "./Components/CTA"
+import Footer from "./Components/Footer"
 function App() {
 
 
@@ -23,6 +27,10 @@ function App() {
   <Stats/>
   <Solutions/>
   <Testimonials/>
+  <Pricing/>
+  <FAQ/>
+  <CTA/>
+  <Footer/>
 </div>
 
 

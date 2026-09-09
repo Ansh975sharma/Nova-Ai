@@ -1,8 +1,10 @@
-import React from 'react'
+
 
 function Features() {
   return (
-    <div className="my-5">
+   <>
+   <section id="features">
+  <div className="my-5">
         <div className="flex flex-col items-center my-5">
              <h1 className="text-2xl font-bold my-3">Powerful Features for Modren Teams</h1>
         <p className="text-center">Everything you need to stay productive ,collaborative seamlessly,
@@ -42,6 +44,9 @@ function Features() {
             
         </div>
     </div>
+   </section>
+   </>
+  
   )
 }
 

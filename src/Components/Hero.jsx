@@ -17,8 +17,8 @@ function  Hero() {
 
         <p className="text-md my-5">NOVA helps teams manage projects,automate tasks and work together more efficently.</p>
         <div className="flex gap-5 my-6">
-        <button className="bg-blue-600 rounded-md p-3 text-white">Get Started </button>
-        <button className="bg-white border border-black outline-black rounded-md p-3">Explore Now</button>
+        <button className="bg-blue-600 rounded-md p-3 hover:shadow-md transistion text-white">Get Started </button>
+        <button className="bg-white border border-black hover:shadow-md transistion outline-black rounded-md p-3">Explore Now</button>
         </div>
     </div>
     </div>
