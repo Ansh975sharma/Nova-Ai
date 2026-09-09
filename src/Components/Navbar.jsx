@@ -13,7 +13,7 @@ function Navbar() {
         <a href="#Home">Home</a>
         <a href="#features">Features</a>
         <a href="#About">About</a>
-        <a href="#How it Works">How it Works</a>
+        <a href="#HowitWorks">How it Works</a>
         <a href="#Pricing">Pricing</a>
         <a href="#FAQ">FAQ</a>
      

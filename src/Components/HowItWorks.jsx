@@ -1,9 +1,13 @@
-import React from 'react'
 import {LuArrowRight,LuArrowDown} from "react-icons/lu"
+
 function HowItWorks() {
+
+  
+    
+  
   return (
 <>
-<section id="How it Works">
+<section id="HowitWorks">
 <div>
     <div className="text-center">
          <h1 className="text-2xl  font-bold">How it Works </h1>

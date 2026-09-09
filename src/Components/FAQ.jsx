@@ -1,6 +1,7 @@
-import React from 'react'
 
 function FAQ() {
+
+ 
   return (
   <>
   <section id="FAQ">
@@ -14,7 +15,12 @@ function FAQ() {
         <div className="flex border border-gray-200 hover:shadow-md transistion justify-between px-2 rounded-md my-1">  
 
             <p>1. Can i try Nova for free?</p> 
-             <button>+</button>
+            
+<button>+ </button>
+              
+          
+        
+           
             
         </div>
         <div className="flex border border-gray-200 hover:shadow-md transistion justify-between px-2 rounded-md my-1">
