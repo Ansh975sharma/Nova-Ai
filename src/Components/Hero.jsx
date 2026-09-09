@@ -7,7 +7,7 @@ function  Hero() {
     <div >
         <button className="bg-gray-200 rounded-xl px-3 text-violet-500 ">Ai-Powered Productivity</button>
         <div className="my-5">
-        <h1 className="text-5xl font-bold">
+        <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold">
             Build Better.
             <br />
             Work Smarter.

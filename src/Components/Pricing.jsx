@@ -36,18 +36,22 @@ function Pricing() {
             </ul>
             <button className="border w-full hover:bg-blue-700 hover:text-white rounded-md">Get Started</button>
         </div>
-        <div className="border hover:border-blue-700 hover:bg-blue-50 rounded-md p-3">
+
+          <div className="border hover:border-blue-700 hover:bg-blue-50 rounded-md p-3">
             <p className="font-bold">Business</p>
-            <p className="text-gray-600 ">for large organizations</p>
-            <p className="mt-2"><span className='text-xl font-bold'>$29</span >  /month</p>
+            <p className="text-gray-600 ">For large teams & organizations</p>
+            <p  className='text-xl font-bold mt-2'>Custom  </p>
             <ul>
-                <li className="flex "> <span className="mt-2"><LuCheck className="text-blue-500" /> </span> ultimate team members</li>
+     <li className="flex "> <span className="mt-2"><LuCheck className="text-blue-500" /> </span> ultimate team members</li>
                 <li className="flex"> <span className="mt-1"><LuCheck className="text-blue-500" /> </span> All features</li>
                 <li  className="flex"> <span className="mt-1"><LuCheck className="text-blue-500" /> </span> 200GB storage</li>
                 <li  className="flex"> <span className="mt-1"><LuCheck className="text-blue-500" /> </span> Dedicated Support</li>
+
             </ul>
-            <button className="border hover:bg-blue-700 hover:text-white w-full rounded-md">Get Started</button>
+            <button className="border w-full hover:bg-blue-700 hover:text-white rounded-md">Get Started</button>
         </div>
+        
+     
         <div className="border hover:border-blue-700 hover:bg-blue-50 rounded-md p-3">
             <p className="font-bold">Enterprise</p>
             <p className="text-gray-600 ">For coustom needs</p>

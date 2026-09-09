@@ -6,10 +6,10 @@ function Footer() {
     <>
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 justify-between bg-blue-950 text-white rounded-md p-2">
         <div>
-            <img className="h-20" src={logo} alt="Nova-Logo" />
-            <p>Work Smarter Together</p>
+            <img className="h-10 bg-white rounded-xl " src={logo} alt="Nova-Logo" />
+         
         </div>
-        <div className='flex gap-5 justify-between my-2 '>
+        <div className='flex  gap-5 justify-between my-2 '>
             <ul>
                 <li className="font-bold"><h1>Product</h1></li>
                 <li>Features</li>

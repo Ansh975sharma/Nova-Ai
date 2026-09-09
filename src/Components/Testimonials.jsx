@@ -5,7 +5,7 @@ function Testimonials() {
   return (
     <div className="py-10 px-4">
 
-      {/* Heading */}
+   
       <div className="text-center mb-8">
                <p> <span className="bg-blue-100 rounded-xl px-3 text-blue-500 font-bold">Testimonials</span></p>
 
@@ -21,10 +21,10 @@ function Testimonials() {
       </div>
 
 
-      {/* Cards */}
+  
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 max-w-6xl mx-auto">
 
-        {/* Card 1 */}
+   
         <div className="border border-gray-200 rounded-xl p-5 hover:shadow-md transition">
 
           <div className="flex items-center gap-3">
@@ -57,7 +57,7 @@ function Testimonials() {
         </div>
 
 
-        {/* Card 2 */}
+   
         <div className="border border-gray-200 rounded-xl p-5 hover:shadow-md transition">
 
           <div className="flex items-center gap-3">
@@ -90,7 +90,7 @@ function Testimonials() {
         </div>
 
 
-        {/* Card 3 */}
+    
         <div className="border border-gray-200 rounded-xl p-5 hover:shadow-md transition">
 
           <div className="flex items-center gap-3">
